@@ -11,7 +11,7 @@ The data used in this project is the redwine data downloaded from kaggle and was
 - Jupyter notebook
 
 ### Description
-hia project was carried out through the five data analytis steps given below:
+This project was carried out through the five data analytis steps given below:
 1. Data collectiong: 
 The Red wine data was downloaded from kaggle which was sourced from the vivino database
 2. Data Exploration:
