@@ -1,7 +1,7 @@
 # Red Wine Analysis
 
 ### Poject overwiew
-This is a group project that aims to The project aims to provide insights into various aspects of red wine data, including pricing, ratings, production trends, and geographical distribution. It involves a combination of data cleaning, visualization, and statistical analysis to derive meaningful conclusions from the dataset.
+This is a group project that aims to provide insights into various aspects of red wine data, including pricing, ratings, production trends, and geographical distribution. It involves a combination of data cleaning, visualization, and statistical analysis to derive meaningful conclusions from the dataset.
 
 ### Data sources 
 The data used in this project is the redwine data downloaded from kaggle and was souced from the vivino data base. it contains detailed information on redwine sales and production accorss various geaographical regions.
