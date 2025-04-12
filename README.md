@@ -34,4 +34,4 @@ a summarized overview of the findings.
 I had to remove rows with  nan values from from my data set because they would have affected the accuracy of my  conclusion from the analysis.
 
 ### The Core Team
-Hauwa Musa Hameed(musa-ham_h), Ambali Odebowale(odebowal_a)
+Hauwa Musa Hameed(musa-ham_h)
